@@ -1,7 +1,7 @@
 # Note
 
 This is made for linux based operating systems only.
-When calculating ANYTHING that involves round brackets requires the expression to be in double quotes. For more info see usage examples.
+Calculating ANYTHING that involves round brackets requires the expression to be in double quotes. For more info see usage examples.
 
 # GeeksForGeeks link
 
