@@ -1,3 +1,7 @@
+# Output picture
+
+![image](https://github.com/user-attachments/assets/a702bdd6-10eb-4be4-a38c-b08566b2c38e)
+
 # Note
 
 This is made for linux based operating systems only.
