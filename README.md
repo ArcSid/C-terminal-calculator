@@ -13,8 +13,8 @@ https://www.geeksforgeeks.org/how-to-parse-mathematical-expressions-in-cpp/
 
 # Building the program and making it a bash command
 
-to build the program use g++ 
+to build the program use g++: 
 g++ -o calculate main.cpp
 
-to make it a bash command
+to make it a bash command: 
 sudo mv calculate /usr/local/bin/
