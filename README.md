@@ -37,3 +37,4 @@ You may also freely add your own features.
 
 - ANS varialbe to be used in calculating using preceding answers (ex: calculate 2+2 ANS+2 (output = 6))
 - sin cos and tan functions
+- calculation history saved in text file (Configurable amount of latest calculations to save) to be printed on command: calculatorhistory.
