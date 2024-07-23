@@ -26,10 +26,10 @@ sudo mv calculate /usr/local/bin/
 
 # Usage examples
 
-calculate 2.4+5.4 (output = 7.8)
-calculate "(23%2+5*4)^2" (output = 441)
-calculate "2^0.5" (output = 1.41421)
-calculate "(2+6)/(4\*3)" (output = 0.66667)
+- calculate 2.4+5.4 (output = 7.8)
+- calculate "(23%2+5*4)^2" 2+2 (output = 441, output = 4)
+- calculate 2^0.5 8+5 9+8 (output = 1.41421, output = 13, output = 17)
+- calculate "(2+6)/(4\*3)" (output = 0.66667)
 
 # Customising program to your liking
 
